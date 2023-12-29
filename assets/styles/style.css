@@ -53,7 +53,7 @@ nav a:hover {
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
-
+    height: fit-content
 }
 
 .jumbotron {

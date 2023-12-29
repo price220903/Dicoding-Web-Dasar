@@ -170,10 +170,6 @@ aside {
         gap: 0.5rem;
     }
 
-    nav li{
-        margin: auto;
-    }
-
     .profile img{
         width: 100%;
         height: auto;

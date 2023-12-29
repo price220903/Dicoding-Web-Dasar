@@ -167,7 +167,11 @@ aside {
 @media screen and (max-width: 768px) {
     nav ul {
         justify-content: center;
-        gap: 1rem;
+        gap: 0.5rem;
+    }
+
+    nav li{
+        margin: auto;
     }
 
     .profile img{
